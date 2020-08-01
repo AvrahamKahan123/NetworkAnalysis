@@ -9,7 +9,7 @@ It includes some tester classes to test the algorithms
 For now, the code can be downloaded and compiled manually. Will be made into downloadable commandline tool soon
 
 ## Contributors
-Avraham Kahan, and some testing classes written by University California San Diego (childrens-python is also an account administered by Avraham Kahan)
+Avraham Kahan, and some testing classes written by University California San Diego (childrens-python, the other listed contributor, was also an account administered by Avraham Kahan)
 
 ## License 
 MIT
