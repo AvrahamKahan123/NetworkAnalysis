@@ -1,4 +1,4 @@
-# NetworkAnalysis - currently funcitonal, but mostly in Testing
+# NetworkAnalysis - currently funcitonal, but still in Testing
 Basic Description
 The project provides implementations of commonly used Graph/Network algorithms, 
 The project algorithms community detection, finding strongly connected components, and finding egonets (more to come soon). 
