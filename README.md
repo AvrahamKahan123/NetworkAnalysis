@@ -1,5 +1,5 @@
 # NetworkAnalysis 
-This Project was my first project and is thus more simple. For more complex work, please see my other repositories. It was kept because it could establish the basis for later work on network analysis and helped me analyze the Arxiv HEP-PH (high energy physics phenomenology) citation network.
+This Project is a very old project and is thus more simple. For more complex work, please see my other repositories. It was kept because it could establish the basis for later work on network analysis and helped me analyze the Arxiv HEP-PH (high energy physics phenomenology) citation network.
 Basic Description
 The project provides implementations of commonly used Graph/Network algorithms. Meant for Netwoks, not other kind of Graphs, so it doesn't implement for example (A*)
 The project algorithms community detection (Krager's Algorithm), finding strongly connected components (Kosaraju’s algorithm), and finding egonets (more to come soon). 
